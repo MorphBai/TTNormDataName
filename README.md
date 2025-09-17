@@ -1,0 +1,2 @@
+# TTNormDataName
+Use for normalize the output data name.
